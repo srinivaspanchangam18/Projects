@@ -2,76 +2,72 @@
 
 ### Aspiring Data Scientist | Statistics | Machine Learning | Data Analytics
 
-I am a postgraduate in Statistics with a strong interest in Data Science, Machine Learning, and solving real-world problems using data.
+I am a postgraduate in Statistics passionate about using data science and machine learning to solve real-world problems. I enjoy exploring data, building predictive models, evaluating results, and turning data into meaningful insights.
 
-My approach is to understand the problem, explore and prepare the data, build appropriate machine learning models, evaluate their performance, and communicate meaningful insights.
+Through hands-on projects, I have developed practical experience in data preprocessing, exploratory data analysis, feature engineering, statistical analysis, and machine learning.
 
-Through my projects and hands-on learning, I have been developing practical skills in statistical analysis, data preprocessing, feature engineering, model building, and evaluation. I am eager to apply these skills to real-world business problems, learn from experienced professionals, and contribute to a data-driven team.
+## Featured Projects
 
-## Projects
+### 1. [Bank Credit Risk Prediction](YOUR-BANK-CREDIT-REPOSITORY-URL)
 
-### 1. Bank Credit Risk Prediction
 A machine learning project focused on banking data and credit risk prediction.
 
-- Worked with multiple datasets and explored data preparation and feature engineering.
-- Applied data preprocessing and analytical techniques.
-- Explored predictive modelling and model evaluation.
+- Data preprocessing and feature engineering
+- Exploratory data analysis
+- Predictive modelling and model evaluation
 
-**Key areas:** Data preprocessing, feature engineering, classification, model evaluation.
+**Skills:** Python, Pandas, Feature Engineering, Machine Learning
 
-### 2. Customer Transaction Prediction
+### 2. [Customer Transaction Prediction](YOUR-CUSTOMER-TRANSACTION-REPOSITORY-URL)
+
 A predictive modelling project focused on customer transaction data.
 
-- Explored the dataset and prepared features for modelling.
-- Worked through data preprocessing and machine learning workflows.
-- Evaluated model performance to understand predictive capability.
+- Data cleaning and preparation
+- Feature preparation and model development
+- Model evaluation
 
-**Key areas:** Exploratory data analysis, feature preparation, predictive modelling, evaluation.
+**Skills:** Python, Pandas, Exploratory Data Analysis, Machine Learning
 
-### 3. Insurance Claim Prediction
-A machine learning project focused on predicting insurance claims.
+### 3. [Insurance Claim Prediction](YOUR-INSURANCE-CLAIM-REPOSITORY-URL)
 
-- Explored data preprocessing and feature engineering.
-- Applied techniques to address class imbalance, including SMOTE.
-- Worked with model comparison and hyperparameter tuning.
+A classification project focused on insurance claim prediction.
 
-**Key areas:** Classification, imbalanced data, SMOTE, hyperparameter tuning, model evaluation.
+- Data preprocessing and feature engineering
+- Handling class imbalance using SMOTE
+- Model comparison and hyperparameter tuning
 
-### 4. House Price Prediction
-A regression project focused on estimating house prices using property-related features.
+**Skills:** Python, Scikit-learn, SMOTE, Classification
 
-- Explored feature engineering and data preparation.
-- Compared regression models, including Ridge, Lasso, Random Forest, and XGBoost.
-- Worked on hyperparameter tuning and error analysis.
+### 4. [House Price Prediction](YOUR-HOUSE-PRICE-REPOSITORY-URL)
 
-**Key areas:** Regression, feature engineering, regularization, ensemble models, model evaluation.
+A regression project focused on predicting house prices using property-related features.
+
+- Data preparation and feature engineering
+- Comparison of regression models, including Ridge, Lasso, Random Forest, and XGBoost
+- Hyperparameter tuning and error analysis
+
+**Skills:** Python, Regression, Scikit-learn, Model Evaluation
 
 ## Technical Skills
 
 - **Programming:** Python, SQL, R
-- **Data Analysis:** Pandas, NumPy, exploratory data analysis
-- **Statistics:** Probability, statistical analysis, correlation, regression, hypothesis testing
-- **Machine Learning:** Regression, classification, clustering, feature engineering, model evaluation, hyperparameter tuning
+- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis
+- **Statistics:** Probability, Hypothesis Testing, Correlation, Regression
+- **Machine Learning:** Classification, Regression, Clustering, Feature Engineering, Hyperparameter Tuning
 - **Visualization:** Matplotlib, Seaborn, Power BI
 - **Tools:** Jupyter Notebook, Git, GitHub
 
-## My Approach to Data Science
+## My Approach
 
-I believe building a useful machine learning solution involves more than selecting an algorithm. It requires understanding the problem, preparing reliable data, choosing appropriate methods, evaluating results carefully, and explaining the findings clearly.
-
-I focus on strengthening these skills through practical projects, continuous learning, and hands-on problem-solving.
+I believe effective data science requires a combination of statistical thinking, problem-solving, experimentation, and clear communication. I focus on understanding the problem, preparing reliable data, selecting appropriate models, and evaluating their performance carefully.
 
 ## Career Objective
 
-I am actively looking for an opportunity as a **Data Scientist, Machine Learning Engineer, or Data Analyst**, where I can apply my statistical foundation and technical skills to meaningful problems.
+I am actively seeking opportunities in Data Science, Machine Learning, and Data Analytics where I can apply my skills, take ownership of responsibilities, collaborate with a team, and contribute to data-driven solutions.
 
-I am ready to take ownership of assigned responsibilities, collaborate with a team, learn new technologies, and contribute to building data-driven solutions.
+I am committed to continuous learning and ready to take on new challenges in a professional environment.
 
 ## Let's Connect
 
-I welcome opportunities to collaborate, learn, and contribute to interesting Data Science projects.
-
-- **LinkedIn:** [Add your LinkedIn profile URL]
-- **Email:** [Add your professional email address]
-
-Thank you for visiting my GitHub portfolio!
+- **LinkedIn:** [Your LinkedIn Profile URL]
+- **Email:** [Your Professional Email]
