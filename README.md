@@ -8,7 +8,7 @@ Through hands-on projects, I have developed practical experience in data preproc
 
 ## Featured Projects
 
-### 1. [Bank Credit Risk Prediction](YOUR-BANK-CREDIT-REPOSITORY-URL)
+### 1. [Bank Credit Risk Prediction](https://github.com/srinivaspanchangam18/good-bank-credit)
 
 A machine learning project focused on banking data and credit risk prediction.
 
@@ -18,7 +18,7 @@ A machine learning project focused on banking data and credit risk prediction.
 
 **Skills:** Python, Pandas, Feature Engineering, Machine Learning
 
-### 2. [Customer Transaction Prediction](YOUR-CUSTOMER-TRANSACTION-REPOSITORY-URL)
+### 2. [Customer Transaction Prediction](https://github.com/srinivaspanchangam18/customer_transaction_prediction)
 
 A predictive modelling project focused on customer transaction data.
 
@@ -28,7 +28,7 @@ A predictive modelling project focused on customer transaction data.
 
 **Skills:** Python, Pandas, Exploratory Data Analysis, Machine Learning
 
-### 3. [Insurance Claim Prediction](YOUR-INSURANCE-CLAIM-REPOSITORY-URL)
+### 3. [Insurance Claim Prediction](https://github.com/srinivaspanchangam18/insurance_claim_prediction)
 
 A classification project focused on insurance claim prediction.
 
