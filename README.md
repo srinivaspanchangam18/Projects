@@ -38,7 +38,7 @@ A classification project focused on insurance claim prediction.
 
 **Skills:** Python, Scikit-learn, SMOTE, Classification
 
-### 4. [House Price Prediction](YOUR-HOUSE-PRICE-REPOSITORY-URL)
+### 4. [House Price Prediction](https://github.com/srinivaspanchangam18/house_price_prediction)
 
 A regression project focused on predicting house prices using property-related features.
 
