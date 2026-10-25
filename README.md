@@ -70,4 +70,4 @@ I am committed to continuous learning and ready to take on new challenges in a p
 ## Let's Connect
 
 - **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [Your Professional Email]
+- **Email:** [srinivaspanchangam18@gmail.com]
